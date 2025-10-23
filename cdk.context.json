@@ -1,5 +1,21 @@
 {
   "acknowledged-issue-numbers": [
     34892
-  ]
+  ],
+  "availability-zones:account=265629395045:region=us-east-1": [
+    "us-east-1a",
+    "us-east-1b",
+    "us-east-1c",
+    "us-east-1d",
+    "us-east-1e",
+    "us-east-1f"
+  ],
+  "hosted-zone:account=265629395045:domainName=aboutdayumtime.com:region=us-east-2": {
+    "Id": "/hostedzone/Z0867182EPMRNWOZYSW0",
+    "Name": "aboutdayumtime.com."
+  },
+  "hosted-zone:account=265629395045:domainName=aboutdayumtime.com:region=us-east-1": {
+    "Id": "/hostedzone/Z0867182EPMRNWOZYSW0",
+    "Name": "aboutdayumtime.com."
+  }
 }

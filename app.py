@@ -3,7 +3,7 @@ import os
 
 import aws_cdk as cdk
 
-from okletsdoit_cdk.okletsdoit_cdk_stack import OkletsdoitCdkStack
+from Constructs.okletsdoit_cdk_stack import OkletsdoitCdkStack
 
 
 app = cdk.App()
